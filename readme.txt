@@ -1,2 +1,2 @@
-git is a free softwear
+git is a distrubute systerm
 and very useful
